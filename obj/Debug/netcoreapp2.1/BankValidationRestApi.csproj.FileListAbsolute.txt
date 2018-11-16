@@ -1,0 +1,14 @@
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\bin\Debug\netcoreapp2.1\BankValidationRestApi.deps.json
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\bin\Debug\netcoreapp2.1\BankValidationRestApi.runtimeconfig.json
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\bin\Debug\netcoreapp2.1\BankValidationRestApi.runtimeconfig.dev.json
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\bin\Debug\netcoreapp2.1\BankValidationRestApi.dll
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\bin\Debug\netcoreapp2.1\BankValidationRestApi.pdb
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.csprojAssemblyReference.cache
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.csproj.CoreCompileInputs.cache
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.RazorAssemblyInfo.cache
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.RazorAssemblyInfo.cs
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.AssemblyInfoInputs.cache
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.AssemblyInfo.cs
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.RazorTargetAssemblyInfo.cache
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.dll
+C:\Users\SnymanP\Documents\_My Stuff\Code\BankValidationRestApi\obj\Debug\netcoreapp2.1\BankValidationRestApi.pdb
